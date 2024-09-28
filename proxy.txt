@@ -1,7 +1,1 @@
-http://ruskarxs:qev3z2zhzavi@154.36.110.199:6853
-http://ruskarxs:qev3z2zhzavi@104.239.105.125:6655
-http://ruskarxs:qev3z2zhzavi@167.160.180.203:6754
-http://ruskarxs:qev3z2zhzavi@207.244.217.165:6712
-http://ruskarxs:qev3z2zhzavi@198.23.239.134:6540
-http://ruskarxs:qev3z2zhzavi@45.127.248.127:5128
-http://ruskarxs:qev3z2zhzavi@38.154.227.167:5868
+
